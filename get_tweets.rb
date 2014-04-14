@@ -1,4 +1,3 @@
-
 require 'twitter'
 
 # Authentication details from twitter, your starting
